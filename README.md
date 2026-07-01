@@ -87,7 +87,7 @@ git clone  https://github.com/Swathi97054/HR-Analytics-Dashboard.git
 4. Open:
 
 ```
-Dashboard/Dashboard-Analysis.pbix
+Dashboard/hr_analytics.pbix
 ```
 
 5. If prompted, refresh the dataset.
